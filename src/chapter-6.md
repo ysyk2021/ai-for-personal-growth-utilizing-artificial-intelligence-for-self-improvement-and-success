@@ -1,5 +1,3 @@
-Chapter 6: Managing Finances with AI
-====================================
 
 In this chapter, we will explore how AI can be utilized to manage finances more effectively. By leveraging AI-powered tools and technologies, individuals can gain insights into their financial health and make more informed decisions about spending, saving, and investing.
 
